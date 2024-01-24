@@ -69,6 +69,21 @@ a { color: white; }
   );
   filter: blur(20px);
 }
+100% {
+    width: 1116px;
+    height: 2277px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: -12px 0px 0px 18px;
+    background: linear-gradient( 173.96deg, #252524ff 0%, #363636ff 52%, #202020ff 100% );
+    scroll-behavior: unset;
+}
+
+
 .node-5329 {
   position: absolute;
   width: 187.20217895507812px;
